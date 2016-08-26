@@ -8,12 +8,12 @@ The serial port must be changed from serial console to serial control.
 FingerPrint Sensor Wiring
 -------------------------
 
-   Vin (Red) = 3.3VDC
-   Tx (Green) = GPIO15 (RXD0)
-   Rx (White) = GPIO14 (TXD0)
+   Vin (Red) = 3.3VDC   
+   Tx (Green) = GPIO15 (RXD0)   
+   Rx (White) = GPIO14 (TXD0)  
    GND (Black) = Ground
 
-Button connects to GPIO04 (pin 7)
+Button connects to GPIO04 (pin 7)  
 Relay (Output) connects to GPIO21 (pin 40)
 
 
