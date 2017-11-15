@@ -8,9 +8,9 @@ The serial port must set to serial GPIO (the default setting is serial console).
 FingerPrint Sensor Wiring
 -------------------------
 
-   Vin (Red) = 5VDC
-   Tx (Green) = GPIO15 (RXD0)
-   Rx (White) = GPIO14 (TXD0)
+   Vin (Red) = 5VDC</br>
+   Tx (Green) = GPIO15 (RXD0)</br>
+   Rx (White) = GPIO14 (TXD0)</br>
    GND (Black) = Ground
 
 Button connects to GPIO04 (pin 7)  
